@@ -1,0 +1,65 @@
+{% extends 'homepage/layout.html' %}
+{% block title %} Dashboard {% endblock %}
+{% block content %}
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<h2 class="d-flex justify-content-center align-items-center" style="font-size: 50px; margin-left: auto; margin-right: auto;"><b>Data Karyawan</b>
+    <div class="row gy-4"><a id="button-feature1" href="/dashboard" class="btn-buy">
+    </a>
+    <br>
+</div>
+</h2>
+<h4 class="btn btn-success">+ Tambah</h4>
+<table border="1" class="table table-bordered" cellpadding="5" width="95%" height="auto" style="margin-left: auto; margin-right: auto; border: solid black;">
+    
+    <tr class="table-cadangan">
+        <td width="auto">
+            <h3 class="tulisan-tabel">No</h3>
+        </td>
+        <td width="auto">
+            <h3 class="tulisan-tabel">Nik</h3>
+        </td>
+        <td width="auto">
+            <h3 class="tulisan-tabel">Username</h3>
+        </td>
+        <td width="auto">
+            <h3 class="tulisan-tabel">Nama Karyawan</h3>
+        </td>
+        <td width="auto">
+            <h3 class="tulisan-tabel">Jabatan</h3>
+        </td>
+        <td width="auto">
+            <h3 class="tulisan-tabel">Tanggal Masuk</h3>
+        </td>
+        <td width="auto">
+            <h3 class="tulisan-tabel">Divisi</h3>
+        </td>
+        <td width="auto">
+            <h3 class="tulisan-tabel">Picture</h3>
+        </td>
+        <td width="110">
+            <h3 class="tulisan-tabel">Aksi</h3>
+        </td>
+    </tr>
+
+    <tr style="font-size: 20px;text-align: center">
+        <td>1</td>
+        <td>2209106042</td>
+        <td>agung</td>
+        <td>Anandita agung nugraha</td>
+        <td>CEO</td>
+        <td>1-1-2001</td>
+        <td>saya yg punya</td>
+        <td>Foto</td>
+        <td><a href="">
+            <button class="edit-btn" id="edit-btn" style="background-color: #929a07; color: black;"><svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24" fill="white"><path d="M200-200h56l345-345-56-56-345 345v56Zm572-403L602-771l56-56q23-23 56.5-23t56.5 23l56 56q23 23 24 55.5T829-660l-57 57Zm-58 59L290-120H120v-170l424-424 170 170Zm-141-29-28-28 56 56-28-28Z"/></svg></button></a>
+            <button name="hapus" class="delete-btn" style="background-color: #ff0000;"><svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24" fill="white"><path d="M280-120q-33 0-56.5-23.5T200-200v-520h-40v-80h200v-40h240v40h200v80h-40v520q0 33-23.5 56.5T680-120H280Zm400-600H280v520h400v-520ZM360-280h80v-360h-80v360Zm160 0h80v-360h-80v360ZM280-720v520-520Z"/></svg></button></a> 	
+        </td>
+    </tr>
+
+</table>
+{% endblock %}
