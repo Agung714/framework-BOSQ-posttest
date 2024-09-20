@@ -1,6 +1,6 @@
 #Posttest2
-![isi_absen](./screenshot/isi_absen.png)
-![absen](./screenshot/absen.png)
+![isi_absensi](./screenshot/isi_absensi.png)
+![absensi](./screenshot/absensi.png)
 ![isi_karyawan](./screenshot/isi_karyawan.png)
 ![karyawan](./screenshot/karyawan.png)
 ![isi_user](./screenshot/isi_user.png)
