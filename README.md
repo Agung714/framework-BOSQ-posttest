@@ -3,6 +3,6 @@ NAMA: ANANDITA AGUNG NUGRAHA
 NIM: 2209106042
 #Posttest 1
 
-![landing](./tampilan/landing.png)
-![dashboard](./tampilan/dashboard.png)
-![about](./tampilan/about.png)
+![landing](postes/tampilan/landing.png)
+![dashboard](postes/tampilan/dashboard.png)
+![about](postes/tampilan/about.png)
