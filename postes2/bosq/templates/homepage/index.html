@@ -1,0 +1,100 @@
+{% extends 'homepage/layout.html' %}
+{% load static %}
+{% block title %} Homepage {% endblock %}
+{% block content %}
+
+<div>
+</div>
+<!-- <section id="hero" class="hero d-flex align-items-center" style="background-image: url('{% static 'img/hero-bg.png' %}'); background-size: cover; background-position: center;"> -->
+<section id="hero" class="hero d-flex align-items-center" style="background-image: url({% static 'img/hero-bg.png' %}); background-size: cover; background-position: center;">
+    <div class="container">
+        <div class="row align-items-center">
+            <div class="col-lg-6">
+                <h1>Welcome to our Employee Data Management System!</h1>
+                <h3>Simplify Your Employee Management with our Platform</h3>
+                <h4>With our Platform, you can easily manage and monitor employee data</h4>
+                <div data-aos="fade-up" data-aos-delay="600">
+                    <div class="text-center text-lg-start">
+                        <a href="/dashboard"
+                            class="btn btn-primary scrollto d-inline-flex align-items-center justify-content-center border-radius">
+                            <span>Get Started</span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-6 text-center" data-aos="zoom-out" data-aos-delay="200">
+                <img src="{% static 'img/istockphoto-1129823165-612x612-removebg-preview.png' %}" class="img-fluid"
+                    alt="">
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- <section id="isi"> -->
+<div id="feature" class="container back-ground p-5">
+    <div class="container ">
+        <div class="container">
+        </div>
+        <div class="row">
+            <div class="container center ">
+                <div class="col-lg-3 col-md-6 center" style="width: 100%; height: auto; overflow: hidden;" data-aos="zoom-in" data-aos-delay="100">
+                    <!-- <div class="box center" style="width: 150%; height: auto; overflow: hidden;"> -->
+                        <h3 style="color: #07d5c0;font-size: 40px;">Feature</h3>
+                        <img src="{% static 'img/istockphoto-1129823253-612x612-removebg-preview.png' %}"
+                            class="img-fluid" width="200%" alt="">
+                        <div class="flex" style="margin-left: auto;margin-right: auto;">
+                            <div class="flex">
+                                <br>
+                            </div>
+                        </div>
+                    <!-- </div> -->
+                </div>
+            </div>
+        </div>
+
+    </div>
+</div>
+<BR>
+<!-- <div class="row center"> -->
+
+<footer id="footer" class="footer center" style="background-image: url('{% static 'img/footer-bg.png' %}'); background-size: cover; background-position: center;">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-lg-12 text-center">
+                <h1 class="logo d-flex align-items-center justify-content-center" style="color: #012970;">BOSQ</h1>
+                <p>BOSQ sistem pendataan karyawan yang ramah pengguna, mudah digunakan, ANTI RIBET</p>
+            </div>
+        </div>
+        <div class="row justify-content-center">
+            <div class="col-lg-5 col-md-12 footer-info text-center">
+                <h4>Useful Links</h4>
+                <ul style="list-style: none; padding: 0; color: #012970;">
+                    <li><a href="/">Home</a></li>
+                    <li><a href="/about">About Me</a></li>
+                </ul>
+            </div>
+            <div class="col-lg-5 col-md-12 footer-contact text-center">
+                <h4>Contact Us</h4>
+                <p style="color: #012970;">
+                    No.100 Rt.100 Gg.Pengguna Baru <br>
+                    Balikpapan, 76115<br>
+                    Indonesia <br><br>
+                    <strong>Phone:</strong> 0811 1144 3322<br>
+                    <strong>Email:</strong> Bosq@gmail.com<br>
+                </p>
+            </div>
+        </div>
+        <div class="row justify-content-center">
+            <div class="col-lg-12 text-center">
+                <div class="copyright">
+                    &copy; Copyright <strong><span></span></strong>. All Rights Reserved
+                </div>
+                <div class="credits">
+                    Designed by Anandita
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+
+{% endblock %}
