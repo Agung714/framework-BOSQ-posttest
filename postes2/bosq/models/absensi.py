@@ -12,7 +12,7 @@ class Absensi(models.Model):
         #  'Sakit',
         # 'Izin',
         (HADIR, 'Hadir'),
-        (SAKIT, 'Sakit'),
+        (SAKIT, 'Sakit'), 
         (IZIN, 'Izin'),
     )
     # id = models.IntegerField(primary_key=True)
