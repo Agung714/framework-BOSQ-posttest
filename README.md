@@ -15,3 +15,29 @@ NIM: 2209106042
 ![isi_user](postes2/screenshot/isi_user.png)
 ![user](postes2/screenshot/user.png)
 ![database](postes2/screenshot/database.png)
+
+#Posttest3
+#absensi
+![form_absensi](postes2/screenshot/form_absensi.png)
+![absensi](postes2/screenshot/absensi.png)
+#karyawan
+![form_karyawan](postes2/screenshot/form_karyawan.png)
+![karyawan](postes2/screenshot/karyawan.png)
+#user
+![form_user](postes2/screenshot/form_user.png)
+![user](postes2/screenshot/user.png)
+#overseer
+![form_overseer](postes2/screenshot/form_overseeer.png)
+![user](postes2/screenshot/user.png)
+#function
+Membuat Users secara otomatis saat karyawan atau overseer dibuat
+
+#static file
+1.index.html
+ - bosq/static/img/hero-bg.png
+ - bosq/static/img/12x612-removebg-preview.png
+ - bosq/static/img/istockphoto-1129823253-612x612-removebg-preview.png
+ - bosq/static/img/footer-bg.png
+2.about.html
+ - bosq/static/img/IMG_1.jpg
+ - bosq/static/img/footer-bg.png
