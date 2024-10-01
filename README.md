@@ -14,21 +14,23 @@ NIM: 2209106042
 ![karyawan](postes2/screenshot/karyawan.png)
 ![isi_user](postes2/screenshot/isi_user.png)
 ![user](postes2/screenshot/user.png)
+![isi_overseer](postes2/screenshot/isi_overseer.png)
+![overseer](postes2/screenshot/overseer.png)
 ![database](postes2/screenshot/database.png)
 
 #Posttest3
 #absensi
 ![form_absensi](postes2/screenshot/form_absensi.png)
-![absensi](postes2/screenshot/absensi.png)
+![absensi](postes2/screenshot/tabel_absensi.png)
 #karyawan
 ![form_karyawan](postes2/screenshot/form_karyawan.png)
-![karyawan](postes2/screenshot/karyawan.png)
+![karyawan](postes2/screenshot/tabel_karyawan.png)
 #user
 ![form_user](postes2/screenshot/form_user.png)
-![user](postes2/screenshot/user.png)
+![user](postes2/screenshot/tabel_user.png)
 #overseer
 ![form_overseer](postes2/screenshot/form_overseeer.png)
-![user](postes2/screenshot/user.png)
+![user](postes2/screenshot/tabel_overseer.png)
 #function
 Membuat Users secara otomatis saat karyawan atau overseer dibuat
 
