@@ -4,10 +4,14 @@ NIM: 2209106042
 # Posttest 1
 
 ![landing](postes/tampilan/landing.png)
+#V2
+![landing1](postes2/screenshot/landing1.png)
+![landing2](postes2/screenshot/landing2.png)
+![landing3](postes2/screenshot/landing3.png)
 ![dashboard](postes/tampilan/dashboard.png)
 ![about](postes/tampilan/about.png)
 
-# Posttest2
+# Posttest 2
 ![isi_absensi](postes2/screenshot/isi_absensi.png)
 ![absensi](postes2/screenshot/absensi.png)
 ![isi_karyawan](postes2/screenshot/isi_karyawan.png)
@@ -19,7 +23,7 @@ NIM: 2209106042
 (note: structur overseer nampilin nya beda dari file)
 ![database](postes2/screenshot/database.png)
 
-# Posttest3
+# Posttest 3
 # absensi
 ![form_absensi](postes2/screenshot/form_absensi.png)
 ![absensi](postes2/screenshot/tabel_absensi.png)
@@ -44,3 +48,8 @@ Membuat Users secara otomatis saat karyawan atau overseer dibuat
 2.about.html
  - bosq/static/img/IMG_1.jpg
  - bosq/static/img/footer-bg.png
+
+# Posttest 4
+![tabel](postes2/screenshot/tabel.png)
+![form](postes2/screenshot/form.png)
+
