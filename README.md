@@ -5,9 +5,9 @@ NIM: 2209106042
 
 ![landing](postes/tampilan/landing.png)
 #V2
-![landing1](postes2/screenshot/landing1.png)
-![landing2](postes2/screenshot/landing2.png)
-![landing3](postes2/screenshot/landing3.png)
+![landing1](postes2/screenshot/Landing1.png)
+![landing2](postes2/screenshot/Landing2.png)
+![landing3](postes2/screenshot/Landing3.png)
 ![dashboard](postes/tampilan/dashboard.png)
 ![about](postes/tampilan/about.png)
 
