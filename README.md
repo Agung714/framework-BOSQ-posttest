@@ -51,5 +51,7 @@ Membuat Users secara otomatis saat karyawan atau overseer dibuat
 
 # Posttest 4
 ![tabel](postes2/screenshot/tabel.png)
-![form](postes2/screenshot/form.png)
+![form_tambah](postes2/screenshot/form_tambah.png)
+![form_edit](postes2/screenshot/form_edit.png)
+![search](postes2/screenshot/search.png)
 
